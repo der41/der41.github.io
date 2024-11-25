@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Diego Rodriguez
     - name: Date of Birth
-      value: 14th March 1879
+      value: 19th August 1994
     - name: Languages
-      value: English, German
+      value: English, Spanish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science in Data Science
+      institution: Duke University, North Carolina, US
+      year: 2026
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Professional Degree in Business and Economics
+      institution: University of Chile, RM, Chile
+      year: 2018
       description:
         - Description 1.
         - Description 2.
