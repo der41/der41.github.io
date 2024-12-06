@@ -38,7 +38,7 @@
       "url": "https://www.oecd.org/en/about/directorates/economics-department.html",
       "startDate": "2022-05-01",
       "endDate": "2023-04-30",
-      "summary": "Conducted analysis about the productivity in Chile, prepared reports with media coverage, and contributed to the OECD working papers.", 
+      "summary": "Conducted analysis about the productivity in Chile, prepared reports with media coverage, and contributed to the OECD working papers.",
       "highlights": ["Policy Evaluation", "Forecasting"]
     },
     {
@@ -104,43 +104,24 @@
     }
   ],
   "skills": [
-  {
-    "name": "Artificial Intelligence",
-    "level": "Expert",
-    "icon": "fa-solid fa-robot",
-    "keywords": [
-      "Natural Language Processing",
-      "Machine Learning",
-      "Deep Learning",
-      "Reinforcement Learning",
-      "AI Ethics"
-    ]
-  },
-  {
-    "name": "Data Analytics",
-    "level": "Expert",
-    "icon": "fa-solid fa-chart-line",
-    "keywords": [
-      "Statistical Analysis",
-      "Predictive Modeling",
-      "Data Visualization",
-      "Big Data Processing",
-      "Business Intelligence"
-    ]
-  },
-  {
-    "name": "Programming",
-    "level": "Advanced",
-    "icon": "fa-solid fa-code",
-    "keywords": [
-      "Python",
-      "R",
-      "SQL",
-      "Machine Learning Libraries",
-      "Algorithm Design",
-      "Debugging"
-    ]
-  }
+    {
+      "name": "Artificial Intelligence",
+      "level": "Expert",
+      "icon": "fa-solid fa-robot",
+      "keywords": ["Natural Language Processing", "Machine Learning", "Deep Learning", "Reinforcement Learning", "AI Ethics"]
+    },
+    {
+      "name": "Data Analytics",
+      "level": "Expert",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": ["Statistical Analysis", "Predictive Modeling", "Data Visualization", "Big Data Processing", "Business Intelligence"]
+    },
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "R", "SQL", "Machine Learning Libraries", "Algorithm Design", "Debugging"]
+    }
   ],
   "languages": [
     {
@@ -155,29 +136,15 @@
     }
   ],
   "interests": [
-  {
-    "name": "Artificial Intelligence",
-    "icon": "fa-solid fa-robot",
-    "keywords": [
-      "Natural Language Processing",
-      "Machine Learning",
-      "Deep Learning",
-      "Computer Vision",
-      "Reinforcement Learning",
-      "AI Ethics"
-    ]
-  },
-  {
-    "name": "Data Engineering",
-    "icon": "fa-solid fa-database",
-    "keywords": [
-      "Data Warehousing",
-      "ETL Processes",
-      "Big Data Technologies",
-      "Data Pipelines",
-      "Cloud Computing",
-      "Database Management"
-    ]
-  }
+    {
+      "name": "Artificial Intelligence",
+      "icon": "fa-solid fa-robot",
+      "keywords": ["Natural Language Processing", "Machine Learning", "Deep Learning", "Computer Vision", "Reinforcement Learning", "AI Ethics"]
+    },
+    {
+      "name": "Data Engineering",
+      "icon": "fa-solid fa-database",
+      "keywords": ["Data Warehousing", "ETL Processes", "Big Data Technologies", "Data Pipelines", "Cloud Computing", "Database Management"]
+    }
   ]
 }
