@@ -329,4 +329,4 @@ WELCOME_MSG = (
 
 ## Application at work
 
-Now the EcoDataBot application is ready for action give it a try at this Kaggle competition or if you prefer a live demo check out this [video](https://youtu.be/SGp0rEnYl2M). From the minute [10:34](https://youtu.be/SGp0rEnYl2M?si=7OqINGhIfVSAb-D9&t=634) when I start using the app.
+Now the EcoDataBot application is ready for action! Give it a try at this [Kaggle Notebook](https://www.kaggle.com/code/dirodrigue/rag-ecodatabot) or if you prefer to watch a live demo check out this Youtube [video](https://youtu.be/SGp0rEnYl2M). From the minute [10:34](https://youtu.be/SGp0rEnYl2M?si=7OqINGhIfVSAb-D9&t=634) when I start using the app.
