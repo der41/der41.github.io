@@ -5,7 +5,7 @@ description: Ever felt lost in a sea of economic data, desperately searching for
 tags: Economy Data RAG AI LLMs
 giscus_comments: true
 date: 2025-04-13
-featured: false
+featured: true
 
 authors:
   - name: Diego Rodriguez
