@@ -113,7 +113,7 @@ Then, to report one overall event-study curve, Sun–Abraham aggregates these es
 
 $$\beta_k = \sum_g w_{gk}\beta_{gk} \quad \text{where} \quad \sum_g w_{gk}=1$$
 
-This keeps comparisons clean by ensuring treated units aren’t serving as contaminated controls for later-treated units.
+This keeps comparisons clean by ensuring treated units aren’t serving as contaminated controls for later-treated units. Making it ideal to analyze policy program that follows a staggered rollout behavior.
 
 ---
 
