@@ -4,7 +4,7 @@ title: DiD Is Not Just One Method — Why Staggered Programs Need a Better Yards
 description: In the world of data science, this "staggered rollout" is a goldmine for research, but it’s also a trap. If we use old-school shortcuts to measure success, we often end up with the wrong answer.
 tags: Analytics Explainability Economy
 giscus_comments: true
-date: 2025-10-07
+date: 2026-02-18
 featured: false
 
 authors:
